@@ -105,7 +105,7 @@ h6 {
 .s1 {
   background-color: var(--mainColor);
   border-bottom: 1px solid var(--borderColor);
-  background-image: url(/images/seagif.gif);
+  background-image: url(images/seagif.gif);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
